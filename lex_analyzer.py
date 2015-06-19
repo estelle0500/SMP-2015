@@ -3,13 +3,13 @@ import codecs
 import random
 
 # file containing lexicon
-lex = codecs.open("/Users/student/Documents/lexicon.txt", encoding="utf-8", mode="r+")
+lex = codecs.open("/Users/student/Downloads/lexicon_v5.txt", encoding="utf-8", mode="r+")
 
 # file containing recorded sentences
-rec = codecs.open("/Users/student/Documents/textcpy.txt", encoding="utf-8", mode="r+")
+rec = codecs.open("/Users/student/Downloads/prompts.txt", encoding="utf-8", mode="r+")
 
 # output file for phone count
-f = codecs.open("/Users/student/Documents/phone_count_m.txt", encoding="utf-8", mode="w+")
+f = codecs.open("/Users/student/Documents/phone_count.txt", encoding="utf-8", mode="w+")
 
 # output file for romanized hokkien
 m = codecs.open("/Users/student/Documents/hokkien_romanization.txt", encoding="utf-8", mode="w+")
@@ -19,12 +19,6 @@ count = {}# {'i': 0.0, 'ei': 0.0, 'uh': 0.0, 'o': 0.0, 'ai': 0.0, 'ia': 0.0, 'io
 
 # counter for number of triphones
 count_tri = {}
-""" for x in count.keys():
-	for y in count.keys():
-		for z in count.keys():
-			temp = x + y + z
-			count_tri[temp] = 0
-"""
 
 # list of words in lexicon (in Chinese characters) mapped to phone
 char_list = {}
@@ -40,23 +34,27 @@ rec_total_tri = 0.0
 
 giant_string = ""
 
+curr_rand = ""
+
 for line in lex:
-	# col = re.split(",", line)
-	col = re.split(" ", line, 1)
+	col = re.split(",", line)
+	# col = re.split(" ", line, 1)
 
 	# strip nonalphabetical characters and make them lower case
 	col[1] = re.sub("[^a-zA-Z /]+", "", col[1])
 	# col[1].lower()
-	print col[0]
-	print col[1]
-	char_list[col[0]] = col[1]
+	#print col[0]
+	#print col[1]
+	#char_list[col[0]] = col[1]
 
 	# alternate pronunciations
-	"""word = []
-	c = 0
+	word = []
 	pron = re.split("/", col[1])
+	c = 0
 	for p in pron:
 		word.append([])
+
+		# split into phones
 		x = re.split(" ", p)
 		for s in x:
 			if not len(s) == 0 and not s.isspace():
@@ -64,19 +62,18 @@ for line in lex:
 		c += 1
 
 	# characters/phrase
-	# col[2] = re.sub("[a-zA-Z1-9,./':;?]()", "", col[2])
+	col[2] = re.sub("[a-zA-Z1-9,./':;?]()", "", col[2])
 	li = []
 	pron2 = re.split("/", col[0])
 	li.append(word)
 	li.append(pron2)
-	col[2] = re.sub("[a-zA-Z1-9 ]", "", col[2])
+
+	# multiple chinese phrases mapped to same hokkien phrase
 	chars = re.split(u"\uFF0F", col[2])
-	chars_unq = []
 	for char in chars:
 		if not len(char) == 0 and not char.isspace():
-			chars_unq.append(char)
 			print char
-			char_list[char] = li"""
+			char_list[char] = li
 
 # sort dict keys by descending length of string
 key = char_list.keys()
@@ -100,7 +97,7 @@ def count_p(phones, num, occ):
 			rec_total += 1.0 / float(num) * occ
 
 
-def count_trip(phones, num):
+def count_trip(phones, num, occ):
 	# count triphones
 	global count_tri
 	global rec_total_tri
@@ -117,7 +114,10 @@ def count_trip(phones, num):
 				right_phone = "_"
 
 			tri = left_phone + curr_phone + right_phone
-			count_tri[tri] += 1.0 / float(num)
+			if tri in count_tri.keys():
+				count_tri[tri] += 1.0 / float(num) * occ
+			else:
+				count_tri[tri] = 1.0 / float(num) * occ
 			rec_total_tri += 1.0 / float(num)
 			left_phone = curr_phone
 			curr_phone = right_phone
@@ -127,53 +127,42 @@ def count_trip(phones, num):
 def missing_words(string):
 	# search for unknown words
 	global unknown_words
-	string = re.sub("[a-zA-Z1-9]", "", string)
+
+	# ignore already romanized characters and chinese (full-width) punctuation
+	c = "[a-zA-Z1-9 " + u"\uFF1A" + u"\uFF0F" + u"\uFF0C" + u"\uFF01" + u"\uFF02" + u"\uFF1B" + u"\uFF1F" + "]"
+	string = re.sub(c, "", string)
 	for char in string:
 		if char not in unknown_words:
 			unknown_words.append(char)
 
+
+def rand_repl(word):
+	global char_list
+	global curr_rand
+	r = random.choice(char_list[word][1])
+	curr_rand = char_list[word][1].index(r)
+	count_p(char_list[word][0][curr_rand], len(char_list[word][0]), 1)
+	count_trip(char_list[word][0][curr_rand], len(char_list[word][0]), 1)
+	return r
+
 for line in rec:
 
-	# replace known phrases
-	# rand_pron = random.choice(char_list[word][1])
-	# line = re.sub(word, rand_pron + " ", line)
-	cpy = re.split(" ", line, 1)
-	cpy[1] = re.sub(" ", "", cpy[1])
-	giant_string += cpy[1]
-	# index = 0
-	""" word = []
-	while index != len(cpy[1]):
-		end = len(cpy[1]) - 1
-		sstring = cpy[1][index:end]
-		while end != index and sstring not in char_list.keys():
-			end -= 1
-			sstring = cpy[1][index:end]
-		if end == index:
-			index += 1
-		else:
-			print sstring
-			count_p(char_list[sstring], 1, 1)
-			index = end + 1
-		# count phones and triphones
-		for w in char_list[word][0]:
-			x = len(char_list[word][0])
-			count_p(w, x)
-			count_trip(w, x)
-		"""
-	# count_p(char_list[word], 1, a[1])
-			# rand_pron = random.choice(char_list[word][1])
-			# line = re.sub(word, rand_pron + " ", line)
-	# print word
-	#missing_words(line)
-	#m.write(line)
-print giant_string
+	#cpy = re.split(" ", line, 1)
+	#cpy[1] = re.sub(" ", "", cpy[1])
+	giant_string += line
+
 
 for word in key:
-	print word
-	a = re.subn(word, char_list[word], giant_string)
+	a = re.subn(word, rand_repl(word), giant_string)
 	giant_string = a[0]
-	w = re.split(" ", char_list[word])
-	count_p(w, 1, a[1])
+	w = char_list[word][0][curr_rand]
+	x = len(char_list[word][0])
+	# count_p(w, x, a[1])
+	# count_trip(w, x, a[1])
+
+missing_words(giant_string)
+m.write(giant_string)
+
 
 # sorted order
 f.write("Phone count in sorted order (descending):\n")
@@ -207,8 +196,8 @@ for li in sorted(sort_count_tri, reverse=True):
 	f.write(u"\u0009")
 	f.write("\n")
 
-"""
+
 f.write("Unknown words:\n")
 f.write(str(len(unknown_words)))
 for word in range(0, len(unknown_words)):
-	f.write(unknown_words[word] + "\n")"""
+	f.write(unknown_words[word] + "\n")
