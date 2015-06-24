@@ -3,7 +3,7 @@ import codecs
 import random
 
 # file containing lexicon
-lex = codecs.open("/Users/student/Downloads/lexicon_v5.txt", encoding="utf-8", mode="r+")
+lex = codecs.open("/Users/student/Documents/lexicon.txt", encoding="utf-8", mode="r+")
 
 # file containing recorded sentences
 rec = codecs.open("/Users/student/Downloads/prompts.txt", encoding="utf-8", mode="r+")
@@ -13,6 +13,9 @@ f = codecs.open("/Users/student/Documents/phone_count.txt", encoding="utf-8", mo
 
 # output file for romanized hokkien
 m = codecs.open("/Users/student/Documents/hokkien_romanization.txt", encoding="utf-8", mode="w+")
+
+# output file for missing words
+z = codecs.open("/Users/student/Documents/missing_words.txt", encoding="utf-8", mode="w+")
 
 # counter for number of phones
 count = {}# {'i': 0.0, 'ei': 0.0, 'uh': 0.0, 'o': 0.0, 'ai': 0.0, 'ia': 0.0, 'ioo': 0.0, 'ua': 0.0, 'ui': 0.0, 'iau': 0.0, 'u': 0.0, 'e': 0.0, 'ah': 0.0, 'oh': 0.0, 'au': 0.0, 'io': 0.0, 'iu': 0.0, 'ue': 0.0, 'uai': 0.0, 'p': 0.0, 'b': 0.0, 't': 0.0, 'k': 0.0, 'q': 0.0, 'h': 0.0, 'm': 0.0, 'ng': 0.0, 's': 0.0, 'ts': 0.0, 'dz': 0.0, 'ph': 0.0, 'th': 0.0, 'kh': 0.0, 'n': 0.0, 'tsh': 0.0, 'l': 0.0, 'g': 0.0, 'j': 0.0, 'd': 0.0, '_': 0.0}
@@ -62,7 +65,7 @@ for line in lex:
 		c += 1
 
 	# characters/phrase
-	col[2] = re.sub("[a-zA-Z1-9,./':;?]()", "", col[2])
+	col[2] = re.sub("[a-zA-Z1-9,./':;?() ]", "", col[2])
 	li = []
 	pron2 = re.split("/", col[0])
 	li.append(word)
@@ -72,7 +75,7 @@ for line in lex:
 	chars = re.split(u"\uFF0F", col[2])
 	for char in chars:
 		if not len(char) == 0 and not char.isspace():
-			print char
+			#print char
 			char_list[char] = li
 
 # sort dict keys by descending length of string
@@ -129,10 +132,10 @@ def missing_words(string):
 	global unknown_words
 
 	# ignore already romanized characters and chinese (full-width) punctuation
-	c = "[a-zA-Z1-9 " + u"\uFF1A" + u"\uFF0F" + u"\uFF0C" + u"\uFF01" + u"\uFF02" + u"\uFF1B" + u"\uFF1F" + "]"
+	c = "[a-zA-Z1-9 (){},./;" + u"\uFF1A" + u"\uFF0F" + u"\uFF0C" + u"\uFF01" + u"\uFF02" + u"\uFF1B" + u"\uFF1F" + u"\uFF5B" + u"\uFF3B" + u"\uFF3D" + u"\uFF5D" + u"\uFF08" + u"\uFF09" + u"\u3002" + "]"
 	string = re.sub(c, "", string)
 	for char in string:
-		if char not in unknown_words:
+		if char not in unknown_words and not char.isspace():
 			unknown_words.append(char)
 
 
@@ -197,7 +200,7 @@ for li in sorted(sort_count_tri, reverse=True):
 	f.write("\n")
 
 
-f.write("Unknown words:\n")
-f.write(str(len(unknown_words)))
+z.write("Unknown words:\n")
+z.write(str(len(unknown_words))+"\n")
 for word in range(0, len(unknown_words)):
-	f.write(unknown_words[word] + "\n")
+	z.write(unknown_words[word] + "\n")
