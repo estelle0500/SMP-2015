@@ -1,70 +1,70 @@
 kui hue 
 kui deing 
- gim hue 
- gim deing 
-deing  gim  goh sue 
-hue  gim  goh sue 
-deing kui  goh tua 
-hue  gim  goh tua 
+gue  hue 
+gue  deing 
+deing gue  gah  sue 
+hue gue  gah  sue 
+deing kui gah  tua 
+hue gue  gah  tua 
 kui dian si gi 
- gim  goh sue sia 
-kui  goh tua sia 
+gue  gah  sue sia 
+kui gah  tua sia 
 gah gua kui tei  pue bo 
 gah gua dzuan tei  pue bo 
 
- gim sia 
-sia  gim gah lao 
+gue  sia 
+sia gue  gah lao 
 kui sia 
- gim dian si gi 
+gue  dian si gi 
 kui hohng si 
- gim hohng si 
+gue  hohng si 
 hohng si kui hoh i dzuan 
 hohng si mai  hoh i dzuan 
-hohng si kui  goh tua 
-hohng si  gim  goh sue 
+hohng si kui gah  tua 
+hohng si gue  gah  sue 
 kui leing khi 
-leing khi  gim  goh sue tahm po 
-leing khi kui  goh kua tahm po 
- gim gah lao leing khi 
+leing khi gue  gah  sue tahm po 
+leing khi kui gah  kua tahm po 
+gue  gah lao leing khi 
 kui siu ing gi 
 kui  {radio}
-siu ing gi kui  goh tua sia 
-{radio} kui  goh tua sia 
-siu ing gi  gim  goh sue sia 
-{radio}  gim  goh sue sia 
- gim gah lao siu ing gi 
- gim gah lao  {radio}
+siu ing gi kui gah  tua sia 
+{radio} kui gah  tua sia 
+siu ing gi gue  gah  sue sia 
+{radio} gue  gah  sue sia 
+gue  gah lao siu ing gi 
+gue  gah lao  {radio}
 gua ai lim tshui 
 gua ai jia  
 gua ai jia  diam sim 
 gua ai jia  tuhng tshui 
 kui muhng 
- gim muhng 
+gue  muhng 
 so muhng 
 kui tahng ah 
- gim tahng ah tahm po 
-tahng ah long tsong  gim 
+gue  tahng ah tahm po 
+tahng ah long tsong gue  
 so tahng ah 
- gim suhng du 
- gim mui khi 
- gim mui khi loh 
+gue  suhng du 
+gue  mui khi 
+gue  mui khi loh 
 kui sio tshui loh 
- gim sio tshui loh 
+gue  sio tshui loh 
 tse tshui 
 dzo suhng  
 kui tahng ah boh 
- gim tahng ah boh boh 
+gue  tahng ah boh boh 
 tahng ah boh kui tahm po 
 kah 999
 kah hoh tsu lai 
- goh kah tsit  bai 
+gah  kah  it  bai 
 
 gua ai tia tshiu gua 
 
 
-tshiu dian ue gia  ki  {charge} dian 
-tsong hiq lei si dzeing  mia dzai dzah khiq tshit diam hiang 
-si dzeing  hiang liau  gim gah lao 
+tshiu dian ue gia kuh   {charge} dian 
+tsong hiq lei  si tseing mia dzai dzah khiq tshit diam hiang 
+ si tseing hiang liau gue  gah lao 
 neng diam dzeing au kio  gua khi lai 
  gin lit gui ho ？
 dzit dzun gui diam ？
@@ -83,77 +83,77 @@ gua zah mei bah lu kun liau sah diam dzeing ，soh yi gin lit tsin sian 。
 gua bue siung  dio gin lit ei lai liau ah ni tsue lahng 。
 gua gin lit dzah khiq goh diam tiu khi lai ，soh yi dzit dzun tsin ai kun 。
 le pua diam dzeing dzo ah ni tsue giam ah ！
-gua ei so si tai di shua lai bin  ，ahn dzua bun tsue  bei  dio 。
+gua ei so si tai di shua lai bin  ，ahn dzua bun tsue boh   dio 。
 le ah ni kah gin tiu dzo uan  kahng kei liau 。
 le gohng ei ue gua  mai tia ， mai gohng liau 。
-le  mai lim jiu liau ， goh lim tiu dzui liau 。
+le  mai lim jiu liau ，gah  lim tiu dzui liau 。
 le gia gah  tsin bahn ！
-guh wu tsit  hun dzeing tiu ai  jiong koh ，gua ai tsi do liau ！
+guh wu  it  hun dzeing tiu ai jio kue  ，gua ai tsi do liau ！
 gua dzo gah  ai si ，le ge mai  lai dau kah tsiu ！
-i si tsit lei tsin tua dah (nasal) ei tsah boh kia ，gah (nasal) di ah ni tsue lahng ei bin tau dzeing  biau ian 。
+i si tsit lei tsin tua dah (nasal) ei tsah boh kia ，gah (nasal) di ah ni tsue lahng ei  min dzeing biau ian 。
 
-so si bahng bo ki liau ，tsin   jia laht 。
-gua  ki gue tsin tsue soh zai ，tiu si bue  bei  dio hiq lei bun tsei 。
+so si bahng bo ki liau ，tsin  tsahm  。
+gua kuh  gue tsin tsue soh zai ，tiu si bue boh   dio hiq lei bun tsei 。
 gua bue ki tsi diao tua dai dzi  liau 
 gua  ai le kah gin gohng tshut lai ， mai hoh gua gahn jiong 。
-pahng jio  bue gah  tsue liau ，jia   bei liau ei nua ei 。
-tsi kuan  siong gi ge pi ge ho ，tsin kah gin tiu bue liau 。
+ gim jio bue gah  tsue liau ，jia  boh  liau ei nua ei 。
+tsi kuan siu gi  ge pi ge ho ，tsin kah gin tiu bue liau 。
 i tsin  xiang le ，i si le sio ti ah ？
 sah gei goh deing yu pue 。
-i  bei bian  dio ，bah lu si bi  gu dzah bui tahm po 。
-gua  bei zai  i si doh lo tsit lei gohk gah lai ei lau hahq seing 。
+i boh  bian  dio ，bah lu si bi i dzeng  bui tahm po 。
+gua boh  zai  i si doh lo tsit lei gohk gah lai ei lau hahq seing 。
 i tio le ah ni ho ，i si m si le ei dah boh peing yu ？
 tsi lei gin nah   gin ni tsahp sah hue 。
-gua jiong lai bue tia gue i gohng  hua e ，ko lian i  bei ei gohng ah ？
-dian si ei sia yim gua tia  bei tseing tsho ，kui tua sia tahm po ho bo ？
+gua jiong lai bue tia gue i gohng  hua e ，ko lian i boh  ei gohng ah ？
+dian si ei sia yim gua tia boh  tseing tsho ，kui tua sia tahm po ho bo ？
 ti ah ni oh ，yin gai si ai loh hoh liau bah ？
 in nahng gah   dio liau tseiq bai ti giu bi sai ei tei  pue mia 。
 ah ni ua liau ，kia boh  tsia dah liau 。
-kah gin gia ，bo dahn dzo  bei  dio bue gi 
-tsi geing cai gun ei giam bue pai ，gua nahng  ki hiq dao  jia  
+kah gin gia ，bo dahn dzo boh   dio bue gi 
+tsi geing cai gun ei giam bue pai ，gua nahng kuh  hiq dao  jia  
 tsi lei tsah boh kia tsin  sui 
-gua su gah  ki tsi geing ei cai gun 。
+gua su gah kuh  tsi geing ei cai gun 。
 dzit dzun lei tshei ei  ming gia lai liau ，gua nahng tiu ai siung bahn huat gah ei sai 。
-gin lit  mi si bue  ming gia ，gua nahng  ki kuah hi (nasal) 。
+gin lit  mi si bue  ming gia ，gua nahng kuh  kuah hi (nasal) 。
 si tseing gue liau tsin kah gin ！
-gua ai kuah le tsi bun tsei ，le jio gua ei sai  bei 。
-tsit  ni bue kuah dio gua ei lau pei lau bu  ，gua siung ai  ki kuah i 
-gua siung ai  ki bue ming gia ， gah gua zo ji ei  ki 。
+gua ai kuah le tsi bun tsei ，le jio gua ei sai boh  。
+ it  ni bue kuah dio gua ei  pei bu ，gua siung ai kuh  kuah i 
+gua siung ai kuh  bue ming gia ， gah gua zo ji ei kuh  。
 le  mai gohng bue si tseing ，dia dio ai lai 。
 gua zai  pah pah giu ，le ai o gua gah le 。
 le  mai bue ki ，dia dio ai hoh gua  sia pue ah ！
 tsi tsit lei dai dzi  tsin tiong yau ，le ai gah i dzo ho ah 。
-le si mi si au geiq hun bue sai  bei gah lau pei lau bu  gohng 
+le si mi si au geiq hun bue sai boh  gah  pei bu gohng 
 tsi tsit lei sah  tsin ho kuah 
 
 gua tsin  ai le lai 。
 ah ？le gohng si mi ？
-gua bue tia tseing tsho ，le  goh gohng tsit  pai 。
+gua bue tia tseing tsho ，le gah  gohng  it  pai 。
 dzit dzun lai liau sin kahng kei ，gua nahng seing kuah ahn dzua kuah 。
 le kio  si mi mia ？
 le gia si mi ming gia gia ？ah ？si mi ？
-gin nah  tsue  bei  dio lau bu ，kai si tua khau khi lai 。
-i ei tsiu gia tsit  bah do ，ai  tsiet neng go 。
+gin nah  tsue boh   dio lau bu ，kai si tua khau khi lai 。
+i ei tsiu gia  it  bah do ，ai  tsiet neng go 。
 i tsin  ei gia liau ah ？gua tsin kia 。
 gua wu neng tsit lei hoh (nasal) sua ，hoh le tsit lei 。
-gua ai  ki pue gi (nasal) diu (nasal) zai gui gei  hiu (nasal) ei  ei lau peing yu 。
+gua ai kuh  pue gi (nasal) diu (nasal) zai gui gei  hiu (nasal) ei  ei lau peing yu 。
 hiq lei gao yi bua (nasal) lai 
 ah ？tsi tsin sui ei ue si hiq lei sah hue gin nah  ue ei ？
 
 i long tsong m si tiong gohk lahng ？ahn dzua  hua e gohng ei ah ni ho ？
-gua gia long tsong ei so si tsit jia tsit jia ei kui tsit  pai ，ge si bue sai kui tsi bah so 。
-i bue lai  jiong koh ing ue i pua bi liau 。
+gua gia long tsong ei so si tsit jia tsit jia ei kui  it  pai ，ge si bue sai kui tsi bah so 。
+i bue lai jio kue  ing ue i pua bi liau 。
 tsi si iong tsiu  lia  dio ei ming gia 。
-i bue lai  jiong koh ei uan im gua yi dzeing zai  liau 。
+i bue lai jio kue  ei uan im gua yi dzeing zai  liau 。
 kue hiat ei jim bo si lahng lei sia ue huaq tiong ei gei tshoh 。
-ah ，gua zai  i  wei si mi hua hi  liau 。
+ah ，gua zai  i ahn dzua  hua hi  liau 。
 gua nahng yin gai gah i gohng i tsoh di to lo 
-ah ，tsi lei di ei yi si gua zai  liau 。
-gua  lia neng tua bah toh dao hoh i jia  。
-ah ，gua being beiq  liau ，tsi si si mi dai dzi  。
-tsun tahm po bi ，tse buhng  bei gau lah 。
-i gohng ue ei kao ki  hui siong dia dio ，i si  bei ei ua bian ei 。
-mai  kui diao muhng ，muhng bah i  gim diao 
+ah ，tsi lei di ei yi si gua  ei hiau  liau 。
+gua meh  neng tua bah toh dao hoh i jia  。
+ah ，gua  ming beiq liau ，tsi si si mi dai dzi  。
+tsun tahm po bi ，tse buhng boh  gau lah 。
+i gohng ue ei kao ki tsin  dia dio ，i si boh  ei ua bian ei 。
+mai  kui diao muhng ，muhng bah i gue  diao 
 i yi dzeing di tsahp hue ，si tsit lei tua lahng liau 
 gua jiong tsei bao lai bin  ei tsei gia tshut lai liau 
 ah ，tsi siu gua tsin ho tia ！
@@ -172,46 +172,46 @@ i tio tsit dau tsin seik ，dia dio lai gue tsit dau 。
 i gah i boh ei ai tseing goh suh gahm dohng liau tsin tsue lahng 。
 i tio i lau pei gohng ai tsue dzu i seiing khu 。
 i tio i ei boh wu tsin tsim ei gahm dzeing 。
-gua ei lau pei tio tsu lai lahng long tsong  hui siong  gim sim 。
+gua ei lau pei tio tsu lai lahng long tsong tsin  gue  sim 。
 tsi tiu (nasal) dzua tsin pei 。
 i bah lu ua  dio sah tsahp hue ，si gah  tsin ko si 。
 i bue gia  dio guan gun ，kah  ko si liau 。
 i tio i ei ahng ai gah  tsin tsim ，jiong lai bue siung gue li kui ahng 。
 pei sah  tsin gue tsong lah sahm 。
 i kah  ai i ei gin nah  liau 。
-i seiing khu  bei su hohq ，bin pei gah  xiang tsit  tiu (nasal) dzua 。
+i seiing khu boh  su hohq ，bin pei gah  xiang  it  tiu (nasal) dzua 。
 gua tsim tsim ei ai diao gua ei  goh hiong 。
 tsi lei tshu ei piaq pei pei ei ，tsin tseing khi 。
 i jit si lahng siang ai ei lahng si sin sin koh koh jiong i tsi tua ei lau bu 。
-lo liau tsit  mei ei suh  ，dzah khiq long tsong bian pei liau 。
-gua ai un dong ，dahq ei seing gi  ki pah pah giu 。
-gua tio i gohng ei ue pei gohng liau ，i tsit  gu  yah bue tia 。
-i ai le heing ，tsit  wu si tseing tiu siung  ki le heing 。
+lo liau  it  mei ei  sue ，dzah khiq long tsong bian pei liau 。
+gua ai un dong ，dahq ei seing gi kuh  pah pah giu 。
+gua tio i gohng ei ue pei gohng liau ，i  it  gu  yah bue tia 。
+i ai le heing ， it  wu si tseing tiu siung kuh  le heing 。
 gua ei ue tahm po dzo yong  yah boh  。
 i tsin ai kuah dian si ，dahq ei ti siang jio ai kuah sah si tsit lei diam dzeing 。
-gua tsit  ti ei kahng kei pei dzo liau ，tao gei gohng ai {balik (malay)}  dzo 。
+gua  it  ti ei kahng kei pei dzo liau ，tao gei gohng ai {balik (malay)}  dzo 。
 
-gua  ki i tsu tsue i ，i  bei di ，gua pei gia liau 
+gua kuh  i tsu tsue i ，i boh  di ，gua pei gia liau 
 pei ei sah  gue lah sahm ，tsheing ei si au ai dzu i 。
 gua kui liau tsin tsue lui ，bue bue  dio te pei mua yi ei tsei 。
 pei tsai si gua su gah jia  ei tsai 。
 
 i di bah saht bue gui liap pei tsai 。
-bo lei bue gue  tsui ，sue sim  mai gah lao toh kah 。
+bo lei bue gue pua  ，sue sim  mai gah lao toh kah 。
 tsi pua giam si iong pei tsai gah gue neng dzo ei 。
-i ei pi ki tsin ho ， bei gue ki 。
+i ei pi ki tsin ho ，boh  gue ki 。
  gin ni wu sah pahq lahk tsahp goh ti 。
-hiq lei sua tsin  ue ，goh hun dzeing tiu bei gue  ki 。
+hiq lei sua tsin  ue ，goh hun dzeing tiu bei gue kuh  。
 i wu gui pahq bun tsei 。
 gua nahng zo ji ei bua (nasal) tsi lei do deing bah ，i kah  dahng liau 。
-i bua (nasal) dian si  ki leing uai tsit lei bahng geing liau 。
-gua tsit lei lahng bua (nasal)  bei gia tsi lei suhng du 。
+i bua (nasal) dian si kuh  leing uai tsit lei bahng geing liau 。
+gua tsit lei lahng bua (nasal) boh  gia tsi lei suhng du 。
 
 
 
 bah hue bahng di do deing si ui  dio hoh bahng geing gah ho kuah 。
-tsi lei tua gah si wu neng  pahq lai tsit lei tsei gei  。
-le ei sai bah tsi koh tua jio tau bua (nasal) khi lai  bei ？
+tsi lei tua gah si wu  di pahq lai tsit lei tsei gei  。
+le ei sai bah tsi koh tua jio tau bua (nasal) khi lai boh  ？
 le ei tsiu lao huiq liau ，siong gah  li hai mah ？
 kui tsia ai dzu i ahn dzuan ， mai kui gah  kah  kah gin 
 
@@ -219,13 +219,13 @@ kui tsia ai dzu i ahn dzuan ， mai kui gah  kah  kah gin
 
 
 
-tsi kuan ei tsia tshui tsun  bei ho ，ei tshut bun tue 。
+tsi kuan ei tsia tshui tsun boh  ho ，ei tshut bun tue 。
 tsi dzahng pei tsai ei hio wu tahm po ng 。
-do deing bahng tsit  gun hue 。
+do deing bahng  it  gun hue 。
 sui lian le kia gua nahng ei kei bahng ，le si gua ei kei lahng 。
  giah tsin kah gin tua ，dzit dzun bah lu bi lau pei ue tahm po liau 。
 dian si gi bahng di tsit dau siang siq hahq 。
 do deing bue diq ，wu tahm po gao ue 。
-in nahng ei lau pei lau bu  tsin ue ， bei  dio tahm po lahk gue (nasal) 。
-gao yi bai  bei ，{balik (malay)}  bai tsit  bai 。
+in nahng ei  pei bu tsin ue ，boh   dio tahm po lahk gue (nasal) 。
+gao yi bai boh  ，{balik (malay)}  bai  it  bai 。
 i ei dah kah tsia ai si pahq tsue koh lui 。

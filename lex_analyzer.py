@@ -6,22 +6,26 @@ import random
 lex = codecs.open("/Users/student/Documents/lexicon.txt", encoding="utf-8", mode="r+")
 
 # file containing recorded sentences
-rec = codecs.open("/Users/student/Downloads/prompts.txt", encoding="utf-8", mode="r+")
+rec = codecs.open("/Users/student/Documents/hokkien_sentences.txt", encoding="utf-8", mode="r+")
 
 # output file for phone count
-f = codecs.open("/Users/student/Documents/phone_count.txt", encoding="utf-8", mode="w+")
+f = codecs.open("/Users/student/Documents/SMP_GIT/phone_count.txt", encoding="utf-8", mode="w+")
 
 # output file for romanized hokkien
-m = codecs.open("/Users/student/Documents/hokkien_romanization.txt", encoding="utf-8", mode="w+")
+m = codecs.open("/Users/student/Documents/SMP_GIT/hokkien_romanization.txt", encoding="utf-8", mode="w+")
 
 # output file for missing words
-z = codecs.open("/Users/student/Documents/missing_words.txt", encoding="utf-8", mode="w+")
+z = codecs.open("/Users/student/Documents/SMP_GIT/missing_words.txt", encoding="utf-8", mode="w+")
 
 # counter for number of phones
-count = {}# {'i': 0.0, 'ei': 0.0, 'uh': 0.0, 'o': 0.0, 'ai': 0.0, 'ia': 0.0, 'ioo': 0.0, 'ua': 0.0, 'ui': 0.0, 'iau': 0.0, 'u': 0.0, 'e': 0.0, 'ah': 0.0, 'oh': 0.0, 'au': 0.0, 'io': 0.0, 'iu': 0.0, 'ue': 0.0, 'uai': 0.0, 'p': 0.0, 'b': 0.0, 't': 0.0, 'k': 0.0, 'q': 0.0, 'h': 0.0, 'm': 0.0, 'ng': 0.0, 's': 0.0, 'ts': 0.0, 'dz': 0.0, 'ph': 0.0, 'th': 0.0, 'kh': 0.0, 'n': 0.0, 'tsh': 0.0, 'l': 0.0, 'g': 0.0, 'j': 0.0, 'd': 0.0, '_': 0.0}
+count = {'i': 0.0, 'ei': 0.0, 'uh': 0.0, 'o': 0.0, 'ai': 0.0, 'ia': 0.0, 'ioo': 0.0, 'ua': 0.0, 'ui': 0.0, 'iau': 0.0, 'u': 0.0, 'e': 0.0, 'ah': 0.0, 'oh': 0.0, 'au': 0.0, 'io': 0.0, 'iu': 0.0, 'ue': 0.0, 'uai': 0.0, 'p': 0.0, 'b': 0.0, 't': 0.0, 'k': 0.0, 'q': 0.0, 'h': 0.0, 'm': 0.0, 'ng': 0.0, 's': 0.0, 'ts': 0.0, 'dz': 0.0, 'ph': 0.0, 'th': 0.0, 'kh': 0.0, 'n': 0.0, 'tsh': 0.0, 'l': 0.0, 'g': 0.0, 'j': 0.0, 'd': 0.0, '_': 0.0}
 
 # counter for number of triphones
 count_tri = {}
+for w in count:
+	for x in count:
+		for y in count:
+			count_tri[w+x+y]=0
 
 # list of words in lexicon (in Chinese characters) mapped to phone
 char_list = {}
@@ -44,7 +48,9 @@ for line in lex:
 	# col = re.split(" ", line, 1)
 
 	# strip nonalphabetical characters and make them lower case
-	col[1] = re.sub("[^a-zA-Z /]+", "", col[1])
+	col[1] = re.sub("[^a-zA-Z /()]+", "", col[1])
+	col[1] = re.sub(" +", " ", col[1])
+	col[0] = re.sub(" +", " ", col[0])
 	# col[1].lower()
 	#print col[0]
 	#print col[1]
@@ -65,9 +71,17 @@ for line in lex:
 		c += 1
 
 	# characters/phrase
-	col[2] = re.sub("[a-zA-Z1-9,./':;?() ]", "", col[2])
+	col[2] = re.sub("[a-zA-Z0-9,./':;?() ]", "", col[2])
 	li = []
 	pron2 = re.split("/", col[0])
+	for i in range(0, len(word)):
+		st = ""
+		for thing in word[i]:
+			st += thing + " "
+		y = re.sub(" ", "_", pron2[i])
+		y = re.sub("\(.*?\)", "", y)
+		st = re.sub("\(.*?\)", "", st)
+		print y, st
 	li.append(word)
 	li.append(pron2)
 
@@ -95,9 +109,6 @@ def count_p(phones, num, occ):
 		if phone in count.keys():
 			count[phone] += 1.0 / float(num) * occ
 			rec_total += 1.0 / float(num) * occ
-		else:
-			count[phone] = 1.0 / float(num) * occ
-			rec_total += 1.0 / float(num) * occ
 
 
 def count_trip(phones, num, occ):
@@ -119,8 +130,6 @@ def count_trip(phones, num, occ):
 			tri = left_phone + curr_phone + right_phone
 			if tri in count_tri.keys():
 				count_tri[tri] += 1.0 / float(num) * occ
-			else:
-				count_tri[tri] = 1.0 / float(num) * occ
 			rec_total_tri += 1.0 / float(num)
 			left_phone = curr_phone
 			curr_phone = right_phone
@@ -132,7 +141,7 @@ def missing_words(string):
 	global unknown_words
 
 	# ignore already romanized characters and chinese (full-width) punctuation
-	c = "[a-zA-Z1-9 (){},./;" + u"\uFF1A" + u"\uFF0F" + u"\uFF0C" + u"\uFF01" + u"\uFF02" + u"\uFF1B" + u"\uFF1F" + u"\uFF5B" + u"\uFF3B" + u"\uFF3D" + u"\uFF5D" + u"\uFF08" + u"\uFF09" + u"\u3002" + "]"
+	c = "[a-zA-Z0-9 (){},./;" + u"\uFF1A" + u"\uFF0F" + u"\uFF0C" + u"\uFF01" + u"\uFF02" + u"\uFF1B" + u"\uFF1F" + u"\uFF5B" + u"\uFF3B" + u"\uFF3D" + u"\uFF5D" + u"\uFF08" + u"\uFF09" + u"\u3002" + "]"
 	string = re.sub(c, "", string)
 	for char in string:
 		if char not in unknown_words and not char.isspace():
@@ -147,6 +156,12 @@ def rand_repl(word):
 	count_p(char_list[word][0][curr_rand], len(char_list[word][0]), 1)
 	count_trip(char_list[word][0][curr_rand], len(char_list[word][0]), 1)
 	return r
+	r = char_list[word][1][0]
+	for thing in range(1, len(char_list[word][1])):
+		r += "/" + char_list[word][1][thing]
+	return r
+
+
 
 for line in rec:
 
@@ -156,22 +171,22 @@ for line in rec:
 
 
 for word in key:
-	a = re.subn(word, rand_repl(word), giant_string)
+	a = re.subn(word, rand_repl(word) + " ", giant_string)
 	giant_string = a[0]
 	w = char_list[word][0][curr_rand]
 	x = len(char_list[word][0])
-	# count_p(w, x, a[1])
-	# count_trip(w, x, a[1])
+	count_p(w, x, a[1])
+	count_trip(w, x, a[1])
 
 missing_words(giant_string)
 m.write(giant_string)
-
 
 # sorted order
 f.write("Phone count in sorted order (descending):\n")
 sort_count = []
 for phone in count.keys():
-	sort_count.append([count[phone], phone])
+	if phone != '_':
+		sort_count.append([count[phone], phone])
 for li in sorted(sort_count, reverse=True):
 	f.write(str(round(li[0],2)))
 	f.write(u"\u0009")
