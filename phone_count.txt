@@ -1,2 +1,0 @@
-Phone count in sorted order (descending):
-0.0	
