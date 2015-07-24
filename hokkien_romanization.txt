@@ -1,166 +1,164 @@
-kui hue 
-kui teing 
-gim hue 
-gim teing 
-teing gim gah sue 
-hue gim gah sue 
-teing kui gah tua 
-hue gim gah tua 
-kui tian si gi 
-gim gah sue sia 
-kui gah tua sia 
-gah gua kui tei  pue bo 
-gah gua dzuan tei  pue bo 
+开火
+开灯
+关火
+关灯
+灯关再小
+火关再小
+灯开再大
+火关再大
+开电视机
+关再小声
+开再大声
+跟我开第八播
+跟我转第八播
 
-gim sia 
-sia gim gah lau 
-kui sia 
-gim tian si gi 
-kui hohng si 
-gim hohng si 
-hohng si kui hoh i dzuan 
-hohng si mai hoh i dzuan 
-hohng si kui gah tua 
-hohng si gim gah sue 
-kui leing khi 
-leing khi gim gah sue tahm po 
-leing khi kui gah kua tahm po 
-gim gah lau leing khi 
-kui siu ing gi 
-kui  {radio}
-siu ing gi kui gah tua sia 
-{radio} kui gah tua sia 
-siu ing gi gim gah sue sia 
-{radio} gim gah sue sia 
-gim gah lau siu ing gi 
-gim gah lau  {radio}
-gua ai lim tshui 
-gua ai tsiaq 
-gua ai tsiaq tiam sim 
-gua ai tsiaq tuhng tshui 
-kui muhng 
-gim muhng 
-so muhng 
-kui tahng ah 
-gim tahng ah tahm po 
-tahng ah long tsong gim 
-so tahng ah 
-gim suhng tu 
-gim mui khi 
-gim mui khi loh 
-kui sio tshui loh 
-gim sio tshui loh 
-tse tshui 
-dzo suhng  
-kui tahng ah boh 
-gim tahng ah boh boh 
-tahng ah boh kui tahm po 
-kah 999
-kah hoh tsu lai 
-gah kah it bai 
+关声
+声关掉
+开声
+关电视机
+开风扇
+关风扇
+风扇开给它转
+风扇不要给它转
+风扇开再大
+风扇关再小
+开冷气
+冷气关再小一点
+冷气开再冷一点
+关掉冷气
+开收音机
+开 {radio}
+收音机开再大声
+{radio} 开再大声
+收音机关再小声
+{radio} 关再小声
+关掉收音机
+关掉 {radio}
+我要喝水
+我要吃
+我要吃点心
+我要吃糖水
+开门
+关门
+锁门
+开窗口
+关窗口一点
+窗口全部关
+锁窗口
+关冰橱
+关煤气
+关煤气炉
+开烧水炉
+关烧水炉
+煮水
+做冰 
+开窗口布
+关窗帘布
+窗口布开一点
+打（电话）999
+打（电话）给家里
+再打（电话）一次
 
-gua ai tia tshiu gua 
-
-
-tshiu tian ue gia ki  {charge} tian 
-tsong hiq lei si tseing mia dzai dzah khiq tshit tiam hiang 
-si tseing hiang liau gim gah lau 
-neng tiam dzeing au kio gua khi lai 
- gin lit gui ho ？
-dzit dzun gui tiam ？
-kah ahng tsahp ti tsia lai 
-kah tian ue kio  {mata} lai 
-kah tian kio pah hue tsia lai 
-kah tian bo {mata}
+我要听唱歌
 
 
-
-siau ming kia lau pei lau bu tioong em 
-gi guai ，gua ei so si ahn dzua bo ki liau 
-tua hia tsiaq liau neng ua buhng 
-gua ai tahm po si tseing siung tsi bahn nia 
-gua tsah mei bah lu kun liau sah tiam dzeing ，soh i gin lit tsin sian 。
-gua bue siung tio gin lit ei lai liau ah ni tsue lahng 。
-gua gin lit dzah khiq goh tiam tiu khi lai ，soh i dzit dzun tsin ai kun 。
-le pua tiam dzeing dzo ah ni tsue giam ah ！
-gua ei so si tai ti shua lai min ，ahn dzua bun tsue bei tio 。
-le ah ni kah gin tiu dzo uan kahng kei liau 。
-le gohng ei ue gua mai tia ，mai gohng liau 。
-le mai lim tsiu liau ，gah lim tiu dzui liau 。
-le gia gah tsin bahn ！
-guh u it hun dzeing tiu ai tsiong koh ，gua ai tsi to liau ！
-gua dzo gah ai si ，le ge mai lai tau kah tsiu ！
-i si tsit lei tsin tua tah ei tsah boh kia ，gah ti ah ni tsue lahng ei min dzeing biau ian 。
-
-so si bahng bo ki liau ，tsin tsia laht 。
-gua ki gue tsin tsue soh tsai ，tiu si bue bei tio hiq lei bun tsei 。
-gua bue ki tsi tiau tua ming gia liau 
-gua ai le kah gin gohng tshut lai ，mai hoh gua gahn tshiong 。
-gim tsio bue gah tsue liau ，tsiaq bei liau ei nua ei 。
-tsi kuan siong gi ge pi ge ho ，tsin kah gin tiu bue liau 。
-i tsin siang le ，i si le sio ti ah ？
-sah gei goh teing u pue 。
-i bei bian tio ，bah lu si bi gu dzah bui tahm po 。
-gua bei tsai ia i si toh lo tsit lei gohk gah lai ei lau hahq seing 。
-i tio le ah ni ho ，i si m si le ei tah boh peing u ？
-tsi lei giah  gin ni tsahp sah hue 。
-gua tsiong lai bue tia gue i gohng hua u ，ko lian i bei ei gohng ah ？
-tian si ei sia im gua tia bei tseing tsho ，kui tua sia tahm po ho bo ？
-ti ah ni oh ， i33 dz ei24 ng si ai loh hoh liau bah ？
-in nahng gah tio liau tseiq bai ti giu bi sai ei tei  pue mia 。
-ah ni ua liau ，kia bei tsia tah liau 。
-kah gin gia ，bo tahn dzo bei tio bue gi 
-tsi geing cai gun ei giam bue pai ，gua nahng ki hiq tau  tsiaq 
-tsi lei tsah boh kia tsin sui 
-gua su gah ki tsi geing ei cai gun 。
-dzit dzun lei tshei ei ming gia lai liau ，gua nahng tiu ai siung bahn huat gah ei sai 。
-gin lit  mi si bue ming gia ，gua nahng ki kuah hi 。
-si tseing gue liau tsin kah gin ！
-gua ai kuah le tsi bun tsei ，le tsio gua ei sai bei 。
-it ni bue kuah tio gua ei pei bu ，gua siung ai ki kuah i 
-gua siung ai ki bue ming gia ， gah gua tso tsi ei ki 。
-le mai gohng bue si tseing ，tia tio ai lai 。
-gua tsai ia pah pah giu ，le ai o gua gah le 。
-le mai bue ki ，tia tio ai hoh gua sia pue ah ！
-tsi tsit lei ming gia tsin tiong iau ，le ai gah i dzo ho ah 。
-le si mi si au geiq hun bue sai bei gah pei bu gohng 
-tsi tsit lei sah koh tsin ho kuah 
-
-gua tsin ai le lai 。
-ah ？le gohng si mi ？
-gua bue tia tseing tsho ，le gah gohng it pai 。
-dzit dzun lai liau sin kahng kei ，gua nahng seing kuah ahn dzua kuah 。
-le kio si mi mia ？
-le gia si mi ming gia gia ？ah ？si mi ？
-giah tsue bei tio lau bu ，kai si tua khau khi lai 。
-i ei tsiu gia it bah to ，ai tsue neng go 。
-i tsin ei gia liau ah ？gua tsin kia 。
-gua u neng tsit lei hoh sua ，hoh le tsit lei 。
-gua ai ki pue gi tiu tsai gui ei goh hiong ei lau peing u 。
-hiq lei gau i bua lai 
-ah ？tsi tsin sui ei ue si hiq lei sah hue giah ue ei ？
-
-i long tsong m si tiong gohk lahng ？ahn dzua hua u gohng ei ah ni ho ？
-gua gia long tsong ei so si tsit tsia tsit tsia ei kui it pai ，ge si bue sai kui tsi bah so 。
-i bue lai tsiong koh ing ue i pua bi liau 。
-tsi si iong tsiu lia tio ei ming gia 。
-i bue lai tsiong koh ei uan im gua i dzeing tsai ia liau 。
-kue hiat ei tsim bo si lahng lei sia ue huaq tiong ei gei tshoh 。
-ah ，gua tsai ia i ahn dzua hua hi liau 。
-gua nahng  i33 dz ei24 ng gah i gohng i tsoh ti to lo 
-ah ，tsi lei dzi ei i si gua tsai ia liau 。
-gua lia neng tua bah toh tau hoh i tsiaq 。
-ah ，gua ming beiq liau ，tsi si si mi ming gia 。
-tsun tahm po bi ，tse buhng bei gau lah 。
-i gohng ue ei kau ki tsin tia tio ，i si bei ei ua bian ei 。
-mai kui tiau muhng ，muhng bah i gim tiau 
-i i dzeing ti tsahp hue ，si tsit lei tua lahng liau 
-gua tsiong tsei bau siong lai min ei tsei gia tshut lai liau 
-ah ，tsi siu gua tsin ho tia ！
-gua tsah tiu tsiong hiq lei bun tsah gi kuah uan liau 。
-i tio tsit tau tsin seik ，tia tio lai gue tsit tau 。
+手电话拿去 {charge} 电
+弄那个时钟明天早上七点响
+时钟响了关掉
+两点钟后叫我起来
+今日几号？
+现在几点？
+打（电话）红十字车来
+打（电话）电话叫 {mata} 来
+打（电话）电叫拍火车来
+打（电话）电报{mata}
 
 
+
+小明站爸爸妈妈中间
+奇怪，我的钥匙怎么不见了
+哥哥吃了两碗饭
+我要一点时间想一下子
+我昨晚只睡了三点钟，所以今天很累。
+我没想到今天会来了那么多人。
+我今天早上五点就起来，所以现在很困。
+你半点钟做那么多菜（肴）啊！
+我的钥匙埋在沙里面，怎样都找不到。
+你那么快就做完工作了。
+你说的话我不想听，别说了。
+你别喝酒了，再喝就醉了。
+你走得很慢！
+还有一分钟就要上课，我要迟到了！
+我做得要死，你还不要来帮！
+她是个很大胆的小姑娘，敢在这么多人的面前表演。
+
+钥匙放不见了，真糟糕。
+我去过很多地方，就是买不到那本书。
+我忘这条大事了
+我希望你快说出来，别让我着急。
+香蕉买得多了，吃不了会烂的。
+这种照相机又便宜又好，很快就卖了。
+他真像你，他是你弟弟啊？
+三加五等于八。
+她不变到，只是比以前胖一点。
+我不知道他是哪个国家来的老学生。
+他对你那么好，他是不是你的男朋友？
+这个孩子今年十三岁。
+我从来没听过他说汉语，可能他不会说啊？
+电视的声音我听不清楚，开大声一点好吗？
+天那么黑，应该是要下雨了吧？
+他们得到了这次足球比赛的第八名。
+这么晚了，恐怕没有车搭了。
+快点走，不然等做不到飞机
+这间菜馆的菜（肴）不错，我们去那边吃
+这个姑娘真漂亮
+我喜欢去这间的菜馆。
+现在麻烦的事情来了，我们就要想办法才可以。
+今天晚上没事情，我们去看电影。
+时间过了很快！
+我要看你这本书，你借我可以不。
+一年没见到我的父母，我想要去看他
+我想要去买东西， 跟我一起去。
+你别说没时间，一定要来。
+我知道打球，你要学我教你。
+你别忘记，一定要给我写信啊！
+这件事很重要，你要跟他做好啊。
+你什么时候结婚不能不跟父母说
+这件衣服很好看
+
+我很希望你来。
+啊？你说什么？
+我没听清楚，你再说一遍。
+现在来了新任务，我们先看怎么看。
+你叫什么名？
+你拿什么东西走？啊？什么？
+孩子找不到妈妈，开始大哭起来。
+他的手拿一把刀，要切蛋糕。
+他真的走了啊？我很怕。
+我有两个雨伞，给你一个。
+我要去机场载几位家乡的老朋友。
+那个椅子搬来
+啊？这很漂亮的画是那个三岁孩子画的？
+
+他都不是中国人？怎么华文说的那么好？
+我拿所有的钥匙一只一只地开一遍，还是不能开这把锁。
+他没来上课因为他病了。
+这是用手抓到的东西。
+他没来上课的原因我已经知道了。
+科学的进步是人类社会发展的基础。
+啊，我知道他为什么高兴了。
+我们应该跟他说他错在哪里
+啊，这个词的意思我懂了。
+我捏两大把花生给他吃。
+啊，我明白了，这是什么事。
+剩一点米，煮饭不够啦。
+他说话的语气非常肯定，他是不会改变的。
+不要开着门，门把它关掉（关掉）
+他已经二十岁，是一个大人了
+我将书包里面的书拿出来了
+啊，这首歌很好听！
+我早就将那本杂志看完了。
+他对这里很熟悉，肯定来过这里。
 
 
 
@@ -169,63 +167,65 @@ i tio tsit tau tsin seik ，tia tio lai gue tsit tau 。
 
 
 
-i gah i boh ei ai tseing goh suh gahm tohng liau tsin tsue lahng 。
-i tio i lau pei gohng ai tsue dzu i seiing khu 。
-i tio i ei boh u tsin tsim ei gahm dzeing 。
-gua ei lau pei tio tsu lai lahng long tsong tsin gim sim 。
-tsi tiu dzua tsin pei 。
-i bah lu ua tio sah tsahp hue ，si gah tsin ko si 。
-i bue gia tio guan gun ，tsin ko si liau 。
-i tio i ei ahng ai gah tsin tsim ，tsiong lai bue siung gue li kui ahng 。
-pei sah koh tsin gue tsong lah sahm 。
-i tsin ai i ei giah liau 。
-i seiing khu bei su hohq ，bin pei gah siang it tiu dzua 。
-gua tsim tsim ei ai tiau gua ei goh hiong 。
-tsi lei tshu ei piaq pei pei ei ，tsin tseing khi 。
-i tsit si lahng siang ai ei lahng si sin sin koh koh tsiong i tsi tua ei lau bu 。
-lo liau it mei ei sue ，dzah khiq long tsong bian pei liau 。
-gua ai un tong ，tahq ei seing gi ki pah pah giu 。
-gua tio i gohng ei ue pei gohng liau ，i it gu ia bue tia 。
-i ai le heing ，it u si tseing tiu siung ki le heing 。
-gua ei ue tahm po dzo iong ia bei 。
-i tsin ai kuah tian si ，tahq ei ti siang tsio ai kuah sah si tsit lei tiam dzeing 。
-gua it ti ei kahng kei pei dzo liau ，tau gei gohng ai gei dzo 。
-
-gua ki i tsu tsue i ，i bei ti ，gua pei gia liau 
-pei ei sah koh gue lah sahm ，tsheing ei si au ai dzu i 。
-gua kui liau tsin tsue lui ，bue bue tio te pei mua i ei tsei 。
-pei tsai si gua su gah tsiaq ei tsai 。
-
-i ti bah saht bue gui liap pei tsai 。
-bo lei bue gue tsui ，sue sim mai gah lau toh kah 。
-tsi pua giam si iong pei tsai gah gue neng dzo ei 。
-i ei pi ki tsin ho ，bei gue ki 。
- gin ni u sah pahq lahk tsahp goh ti 。
-hiq lei sua tsin ue ，goh hun dzeing tiu bei gue ki 。
-i u gui pahq bun tsei 。
-gua nahng tso tsi ei bua tsi lei to teing bah ，i tsin tahng liau 。
-i bua tian si ki leing uai tsit lei bahng geing liau 。
-gua tsit lei lahng bua bei gia tsi lei suhng tu 。
 
 
+他和他妻子的爱情故事感动了很多人。
+他对他父亲说要多注意身体。
+他对他的妻子有很深的感情。
+我的爸爸对家里人都非常关心。
+这张纸很白。
+她只活到三十岁，死得很可惜。
+他没拿到冠军，太可惜了。
+她对她的丈夫爱得很深，从来没想过离开丈夫。
+白衣服很容易弄肮脏。
+她太爱她的孩子了。
+她身体不舒服，脸白得像一张纸。
+我深深地爱着我的故乡。
+这个屋子的墙白白的，很干净。
+他一生中最爱的人是辛辛苦苦将他养大的母亲。
+下了一夜的雪，早上全部变白了。
+我爱运动，每个星期去打球。
+我对她说的话白说了，她一句也没听。
+她爱旅游，一有时间就想去旅游。
+我的话一点作用也没有。
+她很爱看电视，每天最少要看三四个小时。
+我一天的工作白做了，老板说要重做。
 
-bah hue bahng ti to teing si ui tio hoh bahng geing gah ho kuah 。
-tsi lei tua gah si u ti pahq lai tsit lei tsei ei 。
-le ei sai bah tsi koh tua tsio tau bua khi lai bei ？
-le ei tsiu lau huiq liau ，siong gah li hai mah ？
-kui tsia ai dzu i ahn dzuan ，mai kui gah tsin kah gin 
+我去她家找她，她不在，我白走了
+白的衣服容易脏，穿的时候要注意。
+我开了很多钱，没买到特别满意的书。
+白菜是我喜欢吃的蔬菜。
+
+她在巴杀买几棵白菜。
+玻璃杯容易碎，小心别掉地板。
+这盘菜（肴）是用白菜和鸡蛋做的。
+他的脾气很好，不容易气。
+今年有三百六十五天。
+那个山真矮，五分钟就爬过去。
+他有几百本书。
+我们一起搬这个桌子吧，它太沉重了。
+他搬电视去另外一个房间了。
+我一个人搬不动这个冰箱。
 
 
 
+把花放在桌子是为到让房间更好看。
+这个大教室有二百来个坐位。
+你能把这块大石头搬起来不？
+你的手流血了，伤得厉害吗？
+开车要注意安全，别开得太快
 
 
-tsi kuan ei tsia tshui tsun bei ho ，ei tshut bun tue 。
-tsi dzahng pei tsai ei hio u tahm po ng 。
-to teing bahng it gun hue 。
-sui lian le kia gua nahng ei kei bahng ，le si gua ei kei lahng 。
-giah tsin kah gin tua ，dzit dzun bah lu bi lau pei ue tahm po liau 。
-tian si gi bahng ti tsit tau siang siq hahq 。
-to teing bue tiq ，u tahm po gau ue 。
-in nahng ei pei bu tsin ue ，bei tio tahm po lahk gue 。
-gau i bai bei ，gei bai it bai 。
-i ei tah kah tsia ai si pahq tsue koh lui 。
+
+
+
+这款的车水准不好，会出问题。
+这棵（树）白菜的叶子有一点黄。
+桌子放一罐花。
+虽然你住我们的客房，你是我的客人。
+小孩很快大，现在只比爸爸矮一点了。
+电视机放在这里最合适。
+桌子没直，有一点别扭。
+他们的父母很矮，不到一点六高。
+椅子摆不，重摆一次。
+她的自行车要四百多块钱。
