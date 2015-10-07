@@ -1,0 +1,133 @@
+1,Switch on the light v1,开灯,开火,kui hue ,1,M
+2,Swtich on the light v2,开灯,开灯,kui teing ,1,M
+3,Switch off the light v1,关灯,关火,gim hue ,1,M
+4,Switch off the light v2,关灯,关灯,gim teing ,1,M
+5,Dim the lights v1,把灯光调暗一点,灯关再小,teing gim gah sue ,1,M
+6,Dim the lights v2,把灯光调暗一点,火关再小,hue gim gah sue ,1,M
+7,Brighten the lights v1,把灯光调亮一点,灯开再大,teing kui gah tua ,1,M
+8,Brighten the lights v2,把灯光调亮一点,火开再大,hue kui gah tua ,1,M
+9,Turn on the television,开电视机,开电视机,kui tian si gi ,1,M
+10,Turn down TV volume,声音调高,关再小声,gue gah sue sia ,1,M
+11,Turn up TV volume,声音调低,开再大声,kui gah tua sia ,1,M
+12,Change channel v1,换频道,跟我开第八播,gah ua kui tei  pue bo ,1,M
+13,Change channel v2,换频道,跟我转第八播,gah ua dzuan tei  pue bo ,1,M
+14,Mute television v1,电视静音,关声,gim sia ,1,M
+15,Mute television v2,电视静音,声关掉,sia gim tiau,1,M
+16,Unmute television,,开声,kui sia ,1,M
+17,Turn off the television,关掉电视,关电视机,gue tian si gi ,1,M
+18,Switch on the fan,开风扇,开风扇,kui hohng si ,1,M
+19,Switch off the fan,关风扇,关风扇,gue hohng si ,1,M
+20,Swing fan,把风扇打转,风扇开给它转,hohng si kui hoh i dzuan ,1,M
+21,stop fan swing,停止打转,风扇不要给它转,hohng si mai hoh i dzuan ,1,M
+22,Increase fan speed,风扇档开大一点,风扇开再大,hohng si kui gah tua ,1,M
+23,Decrease fan speed,风扇档开小一点,风扇关再小,hohng si gue gah sue ,1,M
+24,Switch on the air-con,打开空调,开冷气,kui leing khi ,2,F
+25,Turn up air-con temperature,温度调低一点,冷气关再小一点,leing khi gue gah sue tahm po ,2,F
+26,Turn down air-con temperature,温度调高一点,冷气开再冷一点,leing khi kui gah leing tahm po ,2,F
+27,Switch off the air-con,关掉空调,关掉冷气,gue tiau leing khi ,2,F
+28,Turn on the radio v1,打开收音机,开收音机,kui siu ing gi ,2,F
+29,Turn up the volume on radio v1,大声一点,收音机开再大声,siu ing gi kui gah tua sia ,2,F
+30,Turn down the volume on radio v1,小声一点,收音机关再小声,siu ing gi gue gah sue sia ,2,F
+31,Turn off the radio v1,关掉收音机,关掉收音机,gue tiau siu ing gi ,2,F
+32,Call for water,我要水,我要喝水,ua ai lim tshui ,2,F
+33,Call for food,我要食物,我要吃,ua ai tsiaq ,2,F
+34,Call for a snack,我要零食,我要吃点心,ua ai tsiaq tiam sim ,2,F
+35,Call for dessert,我要甜品,我要吃糖水,ua ai tsiaq tuhng tshui ,2,F
+36,Open the door,开门,开门,kui muhng ,3,M
+37,Close the door,关门,关门,gue muhng ,3,M
+38,Lock the door,锁门,锁门,so muhng ,3,M
+39,Open the window,开窗,开窗口,kui tahng ah ,3,M
+40,Close the window a little,窗开一点,关窗口一点,gue tahng ah tahm po ,3,M
+41,Close the window completely,关窗,窗口全部关,tahng ah long tsong gue,3,M
+42,Lock the windows,琐窗,锁窗口,so tahng ah ,3,M
+43,Close the fridge,关冰箱,关冰橱,gue suhng tu ,3,M
+44,Switch off the fire/gas,关火／煤气,关煤气,gue mui khi ,3,M
+45,Switch off the oven,关火炉,关煤气炉,gim mui khi loh ,3,M
+46,Switch on the heater,开暖气,开烧水炉,kui sio tshui loh ,3,M
+47,Switch off the heater,关暖气,关烧水炉,gue sio tshui loh ,3,M
+48,Boil water,煮水,煮水,hia tshui ,3,M
+49,Make ice,做冰块,做冰 ,dzo suhng  ,3,M
+50,Open the curtains,拉开窗帘 ,开窗口布,kui tahng ah boh ,3,M
+51,Draw the curtains,拉上窗帘,关窗帘布,gue tahng ah boh,3,M
+52,Open the curtains a little,窗帘开一点,窗口布开一点,tahng ah boh kui tahm po ,3,M
+53,Dial emergency number,拨打紧急号码,打（电话）999,kah 999,3,M
+54,Call Home,打给家里人,打（电话）电话给家里,kah tian ue hoh tsu lai ,3,M
+55,Redial last number,重播号码,再打（电话）一次,goh kah tsit bai ,3,M
+56,Play music,播音乐,我要听唱歌,ua ai tia tshiu gua ,4,F
+57,Charge phone,给手机充电,手电话拿去充电,tshiu tian ue gia ki tsahq tian ,4,F
+58,Set an alarm for for 7am,7点的闹钟,弄那个时钟明天早上七点响,tsong hiq lei si tseing mia dzai dzah khiq tshit tiam hiang ,4,F
+59,Snooze/switch off alarm,关掉闹钟,时钟响了关掉,si tseing hiang liau gue tiau,4,F
+60,Wake me up in 2 hours,两小时后叫醒我,两点钟后叫我起来,neng tiam dzeing au kio ua khi lai,4,F
+61,Show the date,显示日期,今日几号？, gin lit gui ho ？,4,F
+62,Show the time,显示时间,现在几点？,dzit dzun gui tiam ？,4,F
+63,Call the ambulance,打给救护车,打（电话）红十字车来,kah ahng tsahp ti tsia lai ,4,F
+64,Call the police,报警,打（电话）电话叫警察来,kah tian ue kio mah tah lai ,4,F
+65,Call the firefighters,打给消防员,打（电话）电叫拍火车来,kah tian kio pah hue tsia lai ,4,F
+66,Report a break-in,报告破入？,打（电话）电报警察来,kah tian bo mah tah lai,4,F
+67,Xiao Ming stands between dad and mom.,小明站在爸爸妈妈中间,小明站爸爸妈妈中间,siau ming kia lau pei lau bu tioong em ,5,F
+68,"Strange, my keys disappeared",奇怪，我的钥匙怎么不见了,奇怪，我的钥匙怎么不见了,gi guai ，gua ei so si ahn dzua bo ki liau ,5,F
+69,My brother ate two bowls of rice.,哥哥吃了两碗饭,哥哥吃了两碗饭,tua hia tsiaq liau neng ua buhng ,5,F
+70,I need some time to think.,我要一点时间来想一下,我要一点时间想一下子,gua ai tahm po si tseing siung tsi bahn nia ,5,F
+,,,,,,
+72,Check my voicemail,"检查语音信箱
+",,,,
+73,Pause music,暂停音乐,,,,
+74,Skip track,跳过曲子,,,,
+75,Switch on the sprinklers/There's a fire!,着火了,,,,
+76,Turn on wifi,开网络,,,,
+77,Turn off wifi,关网络,,,,
+78,Record this television program,录电视剧,,,,
+79,Turn on the radio v2,打开收音机,开 {radio},,2,F
+80,Turn up the volume on radio v2,大声一点,{radio} 开再大声,,2,F
+81,Turn down the volume on radio v2,小声一点,{radio} 关再小声,,2,F
+82,Turn off the radio v2,关掉收音机,关掉 {radio},,2,F ,Sentence,Chinese,Direct Chinese Translation from Hokkien,Sort of done romanization
+1,Hail the doctor,,叫医生,gio i seing
+2,I have a headache,,我头痛,ua thau tia
+3,Call for tissue,,我要纸,ua ai dzua
+4,Hail the nurse,,叫护士,gio mi si
+5,I want to sleep,,我要睡,ua ai kun
+6,It is very hot,,房间很热,bahng geing tsin dzua
+7,Call for additional pillow,,我要一个枕头,ua ai tsit ei dzim thau
+8,Lower the bed,,床弄下一点,ming tsuhng tsohng loh tahm po
+9,Draw the divider all the way,,窗口布关掉,tahng ah boh gue tiau
+10,Call for medicine,,我要吃药,ua ai dzia ioq
+11,Bring the table further,,桌子拿走,toh teing gia dzau
+12,I want to watch TV,,我要看电视机,ua ai kua tian si gi
+13,Call for handkerchief,,我要一条布,ua ai dzit tiau boh
+14,Raise the bed,,床弄上一点,ming tsuhng tsohng ki tahm po
+15,Call for additional blanket,,我要一条被子,ua ai dzit tiao pue
+16,Call for shower,,我要冲水,ua ai tsahng tshui
+17,Bring the table nearer,,桌子搬过来,toh teing tsohng gue lai
+18,Call granddaughter,,打电话给我的孙女,kah tian ue hoh ua ei tsah boh sun
+19,Do not disturb sign,,不要打扰,mai tsohng dzi
+20,Play music,,我要听音乐,ua ai teing eing ieit
+21,Call son,,打电话给我的儿子,kah tian ue hoh ua ei kia
+22,Dispense cold water,,倒一杯冷水,toh tsit bue leing tshui
+23,Draw the divider halfway,,窗口布拉一半,tahng ah boh tua tsit pua
+24,Pause music,,停音乐,teing eing gahk
+25,I want to watch a movie,,我要看戏,ua ai kua hi
+26,Call daughter,,打电话给我的女儿,kah tian ue hoh ua ei tsah boh kia
+27,Draw back the divider halfway,,窗口布开一半,tahng ah boh kui tsit pua
+28,Skip track,,换歌,ua gua
+29,Dispense hot water,,倒一杯烧水,tau tsit bue sio tshui
+30,Call father,,打电话给我的爸爸,kah tian ue hoh ua ei lau pei
+31,Report an annoying neighbour,,我边头的人很吵,ua bi thau ei lahng tsin tsah
+32,Report light malfunction,,有东西坏了,u ming gia pai liau
+33,It is very stuffy,,房间很闷热,pahng geing tsin hip
+34,It is very dark,,房间很暗,pahng geing tsin ahm
+35,there's no more water,,房间没水了,pahng geing boh tshui liau
+36,I'm very bored,,我很闷,ua tsin sian ah
+37,When is my next consultation,,我几时要看医生,ua ti si ai kua i seing
+38,Call grandson,,打电话给我的孙子,kah tian ue hoh ua ei sun
+39,The aircon is too cold,,我很冷,ua tsin leing
+40,When will I be discharged,,我几时可以回家,ua ti si ei sai teng tshu
+41,When can I eat?,,我几时可以吃,ua ti si ei sai dzia
+42,When do I have to take my medication?,,我什么时候要吃药,ua si mi si hau ai dzia ioq
+43,I'm hungry,,我饿,ua iau
+44,Remind me to eat my medicine,,时间到了叫我吃药,si gahng gau liau gio ua dzia ioq
+45,I want to switch ward,,我要换房间,ua ai ua pahng geing
+46,I want to get up,,我要起来,ua ai khi lai
+47,Call mother,,打电话给我的妈妈,kah tian ue hoh ua ei lau bu
+48,I don't want to see anybody,,我不要见人,ua mai gi lahng
+49,It is very noisy outside,,外面很吵,gua kau tsin tsah
+50,Draw back the divider all the way,,窗口布开到完,tahng ah boh kui gau uan
